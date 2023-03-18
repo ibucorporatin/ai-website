@@ -1,0 +1,8 @@
+.get-start-today-container {
+  /* background-color: var(--bcg-black); */
+  /* min-height: 55vh; */
+  width: 100%;
+}
+.get-start-today-container h2 {
+  font-family: "HankenGrotesk-ExtraBold";
+}

@@ -1,0 +1,93 @@
+@font-face {
+  font-family: "HankenGrotesk-Black";
+  src: url(../fonts/HankenGrotesk-Black.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HankenGrotesk-BlackItalic";
+  src: url(../fonts/HankenGrotesk-BlackItalic.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HankenGrotesk-Bold";
+  src: url(../fonts/HankenGrotesk-Bold.ttf) format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HankenGrotesk-BoldItalic";
+  src: url(../fonts/HankenGrotesk-BoldItalic.ttf) format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HankenGrotesk-ExtraBold";
+  src: url(../fonts/HankenGrotesk-ExtraBold.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HankenGrotesk-ExtraBoldItalic";
+  src: url(../fonts/HankenGrotesk-ExtraBoldItalic.ttf) format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HankenGrotesk-ExtraLight";
+  src: url(../fonts/HankenGrotesk-ExtraLight.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HankenGrotesk-ExtraLightItalic";
+  src: url(../fonts/HankenGrotesk-ExtraLightItalic.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HankenGrotesk-Italic";
+  src: url(../fonts/HankenGrotesk-Italic.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HankenGrotesk-Light";
+  src: url(../fonts/HankenGrotesk-Light.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HankenGrotesk-LightItalic";
+  src: url(../fonts/HankenGrotesk-LightItalic.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HankenGrotesk-Medium";
+  src: url(../fonts/HankenGrotesk-Medium.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HankenGrotesk-MediumItalic";
+  src: url(../fonts/HankenGrotesk-MediumItalic.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HankenGrotesk-Regular";
+  src: url(../fonts/HankenGrotesk-Regular.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HankenGrotesk-SemiBold";
+  src: url(../fonts/HankenGrotesk-SemiBold.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HankenGrotesk-SemiBoldItalic";
+  src: url(../fonts/HankenGrotesk-SemiBoldItalic.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HankenGrotesk-Thin";
+  src: url(../fonts/HankenGrotesk-Thin.ttf) format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HankenGrotesk-ThinItalic";
+  src: url(../fonts/HankenGrotesk-ThinItalic.ttf) format("truetype");
+  font-display: swap;
+}

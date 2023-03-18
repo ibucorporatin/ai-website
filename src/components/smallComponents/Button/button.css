@@ -1,0 +1,6 @@
+.button {
+  border: none;
+  padding: 16px 20px;
+  color: var(--white);
+  font-family: "HankenGrotesk-Medium";
+}

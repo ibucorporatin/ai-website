@@ -1,0 +1,22 @@
+.copyRight-container {
+  width: 100vw;
+  background-color: #f2f2f2;
+  padding: 30px 0;
+}
+
+/* copyRightContent */
+.copyRightContent {
+  font-size: 12px;
+  color: #676e73;
+  letter-spacing: -0.1px;
+  margin: 5px 0;
+  font-family: "HankenGrotesk-Light";
+}
+
+/* social media */
+.copyRight-social-icon {
+  color: #676e73;
+  font-size: 25px;
+
+  margin: 0px 13px;
+}
